@@ -1,0 +1,22 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-css-only": "~4.4.1",
+    "prop-types": "~15.7.2",
+    "react": "~16.13.0",
+    "react-dom": "~16.13.0",
+    "serve": "~11.3.0"
+  },
+  "devDependencies": {
+    "@babel/standalone": "~7.8.8"
+  }
+}
